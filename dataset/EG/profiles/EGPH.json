@@ -1,0 +1,32 @@
+{
+    "id":"EGPH",
+    "type":"Tabbed",
+    "tabs": [
+        {
+            "label":"ADC",
+            "page":{
+                "rows":4,
+                "keys":[
+                    {
+                        "label":["GMP"],
+                        "station_id": "EGPH_DEL"
+                    },
+                    {
+                        "label":["GMC"],
+                        "station_id": "EGPH_GND"
+                    },
+                    {
+                        "label":"AIR",
+                        "station_id": "EGPH_TWR"
+                    },
+                    {
+                        "label":""
+                    }
+
+
+                ]
+            }
+
+        }
+    ]
+}
