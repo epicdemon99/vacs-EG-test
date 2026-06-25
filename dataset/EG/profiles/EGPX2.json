@@ -19,7 +19,8 @@
             "label": [""]
           },
           {
-            "label": [""]
+            "label": ["EGVV"],
+            "station_id": "EGVV_N_CTR"
           },
           {
             "label": ["SWB"],
