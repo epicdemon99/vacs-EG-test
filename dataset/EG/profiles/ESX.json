@@ -125,8 +125,137 @@
             "station_id": "EGSC_APP"
           },
           {
-            "label": ["MC", "DIR"],
-            "station_id": "EGMC_APP"
+            "label": ["UL", "RAD"],
+            "station_id": "EGUL_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label":["EGGW"],
+      "page":{
+        "rows":5,
+        "keys":[
+          {
+            "label": ["GMP"],
+            "station_id": "EGGW_DEL"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["GMP", "AST"],
+            "station_id": "EGGW_A_DEL"
+          },
+          {
+            "label": ["PLN"],
+            "station_id": "EGGW_P_GND"
+          },
+          {
+            "label": ["GMC"],
+            "station_id": "EGGW_GND"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["AIR"],
+            "station_id": "EGGW_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FIN"],
+            "station_id": "EGGW_F_APP"
+          },
+          {
+            "label": ["INT"],
+            "station_id": "EGGW_APP"
+          },          
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": [],
+            "station_id": ""
+          },
+          {
+            "label": ["TC","NW"],
+            "station_id": "LTC_NW_CTR"
+          },
+          {
+            "label": [""],
+            "station_id": ""
+          },
+          {
+            "label": []
+          },          
+          {
+            "label": ["UL","RAD"],
+            "station_id": "EGUL_APP"
+          },
+          {
+            "label": ["SS","INT"],
+            "station_id": "EGSS_APP"
+          },
+          {
+            "label": ["TC","NE"],
+            "station_id": "LTC_NE_CTR"
+          },
+          {
+            "label": [""],
+            "station_id": ""
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["TK","RAD"],
+            "station_id": "EGTK_APP"
+          },
+          {
+            "label": [""],
+            "station_id": ""
           }
         ]
       }
