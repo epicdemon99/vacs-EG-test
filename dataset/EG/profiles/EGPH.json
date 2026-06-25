@@ -58,15 +58,14 @@
                     },
                     {
                         "label":[]
+                    },                    
+                    {
+                        "label":"FIN",
+                        "station_id": "EGPH_F_APP"
                     },
                     {
                         "label":"INT",
                         "station_id": "EGPH_APP"
-                    },
-
-                    {
-                        "label":"FIN",
-                        "station_id": "EGPH_F_APP"
                     },
                     {
                         "label":[]
