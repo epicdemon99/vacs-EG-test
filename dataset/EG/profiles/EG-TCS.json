@@ -1,5 +1,5 @@
 {
-  "id": "TCS",
+  "id": "EG-TCS",
   "type": "Tabbed",
   "tabs": [
     {
@@ -7,6 +7,10 @@
       "page": {
         "rows": 6,
         "keys": [
+          {
+            "label": ["TC MIDS", "COWLY"],
+            "station_id": "LTC_MC_CTR"
+          },
           {
             "label": ["TC", "NW"],
             "station_id": "LTC_NW_CTR"
@@ -16,91 +20,122 @@
             "station_id": "LTC_SW_CTR"
           },
           {
-            "label": ["TC", "MIDS"],
-            "station_id": "LTC_M_CTR"
-          },
-          {
             "label": ["AC W", "S23"],
             "station_id": "LON_23_CTR"
           },
           {
-            "label": ["WOR"],
-            "station_id": "LON_H_CTR"
-          },
-          {
-            "label": ["TC", "LL"],
-            "station_id": "EGLL_S_APP"
-          },
-          {
-            "label": ["TC", "NE"],
-            "station_id": "LTC_NE_CTR"
-          },
-          {
-            "label": ["TC", "SE"],
-            "station_id": "LTC_SE_CTR"
-          },
-          {
-            "label": ["TC", "E"],
-            "station_id": "LTC_E_CTR"
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": ["DVR"],
-            "station_id": "LON_D_CTR"
-          },
-          {
-            "label": ["TC", "KK"],
-            "station_id": "EGKK_APP"
+            "label": ["LMS"],
+            "station_id": "LON_SN_CTR"
           },
           {
             "label": ["SOL", "APP"],
             "station_id": "SOLENT_APP"
           },
           {
-            "label": ["LF", "APP"],
-            "station_id": "EGLF_APP"
+            "label": ["TC MIDS", "WELIN"],
+            "station_id": "LTC_MW_CTR"
           },
           {
-            "label": ["KA", "APP"],
-            "station_id": "EGKA_APP"
+            "label": ["TC NE", "LAM"],
+            "station_id": "LTC_N2_CTR"
           },
           {
-            "label": ["KB", "APP"],
-            "station_id": "EGKB_A_APP"
+            "label": ["TC", "SE"],
+            "station_id": "LTC_SE_CTR"
           },
           {
-            "label": ["TC", "TMS"],
-            "station_id": "THAMES_CTR"
+            "label": ["WOR", "Hurn"],
+            "station_id": "LON_HW_CTR"
           },
           {
-            "label": ["MC", "LARS"],
-            "station_id": "EGMC_L_APP"
+            "label": ["DVR", "S15"],
+            "station_id": "LON_DK_CTR"
           },
           {
             "label": ["HI", "APP"],
             "station_id": "EGHI_APP"
           },
           {
-            "label": ["LF", "LARS"],
-            "station_id": "EGLF_L_APP"
+            "label": ["TC E", "SABER"],
+            "station_id": "LTC_ES_CTR"
           },
           {
-            "label": ["KA", "AIR"],
-            "station_id": "EGKA_TWR"
+            "label": ["TC NE", "LOREL"],
+            "station_id": "LTC_NL_CTR"
           },
           {
-            "label": ["LON", "FISO"],
-            "station_id": "EGTT_I_CTR"
+            "label": ["TC NE", "DEPS"],
+            "station_id": "LTC_NE_CTR"
+          },
+          {
+            "label": ["WOR", "SFD S18"],
+            "station_id": "EGKB_A_APP"
+          },
+          {
+            "label": ["DVR", "LYD"],
+            "station_id": "LON_DL_CTR"
+          },
+          {
+            "label": ["LF", "APP"],
+            "station_id": "EGLF_APP"
+          },
+          {
+            "label": ["TC E", "JACKO"],
+            "station_id": "LTC_EJ_CTR"
+          },
+          {
+            "label": ["TC", "LL"],
+            "station_id": "EGLL_S_APP"
+          },
+          {
+            "label": ["TC", "TMS"],
+            "station_id": "THAMES_APP"
           },
           {
             "label": ["MC", "APP"],
             "station_id": "EGMC_APP"
           },
           {
+            "label": ["KA", "APP"],
+            "station_id": "EGKA_APP"
+          },
+          {
+            "label": ["LF", "LARS"],
+            "station_id": "EGLF_L_APP"
+          },
+          {
+            "label": ["LON", "FISO"],
+            "station_id": "EGTT_I_CTR"
+          },
+          {
+            "label": ["TC", "KK"],
+            "station_id": "EGKK_APP"
+          },
+          {
+            "label": ["TC", "SVFR"],
+            "station_id": "EG-CTR-TC_SVFR"
+          },
+          {
+            "label": ["MC", "LARS"],
+            "station_id": "EGMC_L_APP"
+          },
+          {
             "label": ["MD", "APP"],
             "station_id": "EGMD_A_APP"
+          },
+          {
+            "label": ["PAR", "TN"],
+            "station_id": "PAR_TN_CTR"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ["KB", "APP"],
+            "station_id": "EGKB_A_APP"
+          },
+          {
+            "label": ""
           },
           {
             "label": ["BRU", "W"],
@@ -109,17 +144,6 @@
           {
             "label": ["EBOS", "APP"],
             "station_id": "EBOS_APP"
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": ["TC", "SVFR"],
-            "station_id": "EGLL-CTR-TC_SVFR"
-          },
-          {
-            "label": ["PAR", "TN"],
-            "station_id": "PAR_TN_CTR"
           },
           {
             "label": ["PAR", "TB"],
@@ -134,84 +158,162 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["DTY"],
-            "station_id": "LON_M_CTR"
+            "label": ["DTY", "W"],
+            "station_id": "LON_MW_CTR"
           },
           {
-            "label": ["TC", "GW"],
+            "label": ["DTY", "LOW"],
+            "station_id": "LON_ML_CTR"
+          },
+          {
+            "label": ["AC W","BHD"],
+            "station_id": "LON_WH_CTR"
+          },
+          {
+            "label": ["TC","GW"],
             "station_id": "EGGW_APP"
           },
           {
-            "label": ["LL","AIR S"],
-            "station_id": "EGLL_S_TWR"
-          },
-          {
-            "label": ["LC","AIR"],
-            "station_id": "EGLC_TWR"
-          },
-          {
-            "label": ["VP", "APP"],
-            "station_id": "EGVP_APP"
-          },
-          {
-            "label": ["DM", "APP"],
-            "station_id": "EGDM_APP"
-          },
-          {
-            "label": ["CLN"],
-            "station_id": "LON_E_CTR"
-          },
-          {
-            "label": ["TC", "SS"],
-            "station_id": "EGSS_APP"
-          },
-          {
-            "label": ["KK","AIR"],
-            "station_id": "EGKK_TWR"
-          },
-          {
-            "label": ["MC","AIR"],
-            "station_id": "EGMC_TWR"
+            "label": ["TC", "LL", "INT N"],
+            "station_id": "EGLL_N_APP"
           },
           {
             "label": ["HH", "APP"],
             "station_id": "EGHH_APP"
           },
           {
-            "label": ["EGHO"],
-            "station_id": "EGHO_R_TWR"
+            "label": ["DTY", "E"],
+            "station_id": "LON_ME_CTR"
           },
           {
-            "label": ["EGKR"],
-            "station_id": "EGKR_TWR"
+            "label": ""
           },
           {
-            "label": ["EGTF"],
-            "station_id": "EGTF_R_TWR"
+            "label": ["TC E","DAGGA"],
+            "station_id": "LTC_ED_CTR"
           },
           {
-            "label": ["LF","AIR"],
+            "label": ["TC","SS"],
+            "station_id": "EGSS_APP"
+          },
+          {
+            "label": ["LL AIR", "S"],
+            "station_id": "EGLL_S_TWR"
+          },
+          {
+            "label": ["HI", "AIR"],
+            "station_id": "EGHI_AIR"
+          },
+          {
+            "label": ["CLN", "N S12"],
+            "station_id": "LON_EN_CTR"
+          },
+          {
+            "label": ["CLN", "S S13"],
+            "station_id": "LON_ES_CTR"
+          },
+          {
+            "label": ["TC E","REDFA"],
+            "station_id": "LTC_ER_CTR"
+          },
+          {
+            "label": ["LC", "AIR"],
+            "station_id": "EGLC_TWR"
+          },
+          {
+            "label": ["KK", "AIR"],
+            "station_id": "EGKK_TWR"
+          },
+          {
+            "label": ["LF", "AIR"],
             "station_id": "EGLF_TWR"
           },
           {
-            "label": ["EGLK"],
-            "station_id": "EGLK_I_TWR"
+            "label": ""
           },
           {
-            "label": ["UB", "APP"],
-            "station_id": "EGUB_APP"
+            "label": ""
           },
           {
-            "label": ["VO", "APP"],
-            "station_id": "EGVO_APP"
+            "label": ""
+          },
+          {
+            "label": ["MC", "AIR"],
+            "station_id": "EGMC_TWR"
+          },
+          {
+            "label": ["KR", "AIR"],
+            "station_id": "EGKR_TWR"
+          },
+          {
+            "label": ""
           }
         ]
       }
     },
     {
-        "label":["3"],
+      "label": ["3"],
       "page": {
-        "rows": 2,
+        "rows": 6,
+        "client_page": {
+          "include": [
+            "EGLL_*",
+            "EGKK_*",
+            "THAMES*",
+            "EGLC_*",
+            "EGMC_*",
+            "EGKB_*",
+            "SOLENT*",
+            "EGHH_*",
+            "EGHI_*",
+            "EGKA_*",
+            "EGKR_*",
+            "EGLF_*",
+            "EGMD_*",
+            "LON_S*",
+            "LON_H*",
+            "LON_D*",
+            "LON_C*",
+            "LON_M*",
+            "LON_E*",
+            "LON_SC*",
+            "LON_W*",
+            "LON_23*",
+            "LON_CTR",
+            "LON__CTR",
+            "LTC_*",
+            "EGVV_*",
+            "EGTT_*",
+            "UK_*",
+            "EGJJ_*",
+            "EDYY_K*",
+            "EDYY_N*",
+            "EBBU_*",
+            "PAR_*",
+            "LFEE_HN*",
+            "LFEE_N*",
+            "LFEE_U*",
+            "LFRR_V*",
+            "LFRR_W*",
+            "LFRR_J*",
+            "LFRR_U*",
+            "LFRR_E*",
+            "LFRR_CTR",
+            "LFRR__CTR",
+            "LFQQ_*APP",
+            "LFRN_*APP"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+     },
+    {
+        "label":["4"],
+      "page": {
+        "rows": 6,
         "keys": [
           {
             "label": ["UK", "FMP"],
@@ -230,12 +332,6 @@
             "station_id": "UK_B_FMP"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
             "label": ["LAC", "GS"],
             "station_id": "LON_GS_CTR"
           },
@@ -252,15 +348,6 @@
             "station_id": "MAN_FMP"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
             "label": ["SCL", "FMP"],
             "station_id": "SCL_FMP"
           },
@@ -271,11 +358,13 @@
           {
             "label": ["SCL", "GS"],
             "station_id": "SCL_GS_CTR"
+          },
+          {
+            "label": ""
           }
         ]
-
-        }
-        
+      }
     }
+     
   ]
 }
