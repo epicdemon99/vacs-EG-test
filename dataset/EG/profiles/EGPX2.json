@@ -55,7 +55,7 @@
           {
             "label": ["MIL"],
             "color": "azure",
-            "station_id": "EGVV_CTR"
+            "station_id": "EGVV_N_CTR"
           },
           {
             "label": ["ScL","TAY"],
