@@ -53,8 +53,9 @@
             "color": "azure"
           },
           {
-            "label": [""],
-            "color": "azure"
+            "label": ["MIL"],
+            "color": "azure",
+            "station_id": "EGVV_CTR"
           },
           {
             "label": ["ScL","TAY"],
@@ -81,8 +82,9 @@
             "station_id": "EISN_E_CTR"
           },
           {
-            "label": [""],
-            "color": "azure"
+            "label": ["FIS"],
+            "color": "azure",
+            "station_id": "EGPX_I_CTR"
           },
           {
             "label": ["BIRD","LO","F355-"],
